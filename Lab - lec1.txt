@@ -1,0 +1,55 @@
+1. Install Ubunto OS using virtal machine.
+2. What is the difference between cat and more command?
+cat open file in terminal
+more open first 20 line of file in terminal and press enter for more lines
+
+3. What is the difference between rm and rmdir using man?
+rm for files
+rmdir for directories
+
+4. Copy the /etc/passwd file to your home directory making its name is mypasswd.
+cp /etc/passwd ~/mypasswd
+
+
+5. Rename this new file to be oldpasswd.
+mv ~/mypasswd ~/oldpasswd
+
+6. You are in /usr/bin, list four ways to go to your home directory
+cd /home/
+cd ../../home/
+cd ~/..
+
+7. List Linux commands in /usr/bin that start with letter w
+wall
+watch
+watchgnupg
+wc
+wdctl
+wget
+whatis
+whereis
+which
+whiptail
+who
+whoami
+whoopsie
+whoopsie-preferences
+word-list-compress
+wpa_passphrase
+w.procps
+write
+
+8. Display the first 4 lines of /etc/passwd
+head -5 /etc/passwd
+
+9. Display the last 7 lines of /etc/passwd
+tail -7 /etc/passwd
+
+10. Display the man pages of passwd the command and the file sequentially in one command.
+man passwd;cat passwd
+
+11. Display the man page of the passwd file.
+man passwd
+
+12. Display a list of all the commands that contain the keyword passwd in their man page.
+man -k passwd
