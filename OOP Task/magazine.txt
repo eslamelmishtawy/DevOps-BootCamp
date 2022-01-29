@@ -1,0 +1,6 @@
+Software Magazine,13,IEEE,20-1-2022
+Communications of the ACM,80,ACM,14-6-2021
+eLearn,50,ACM,12-1-2021
+Magazine 3,200,Eslam,15-2-2020
+Magazine 4,100,Eslam,8-8-2008
+Magazine 5,600,Eslam,9-9-2009
