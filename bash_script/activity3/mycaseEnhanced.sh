@@ -1,5 +1,4 @@
 #!bin/bash
-shopt -s extglob;
 echo Please Enter A Character/Number
 read x
 case $x in 
